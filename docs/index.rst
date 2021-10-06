@@ -3,13 +3,18 @@ GolangNotes
 
 .. toctree::
    :maxdepth: 1
-   :caption: Golang笔记
+   :caption: Golang基础语法
    
    golang/golang-notes-for-install-guide.md
    golang/golang-notes-basic-syntax.md
    golang/golang-notes-for-basic-syntax-function.md
    golang/golang-notes-for-struct-and-method.md
    golang/golang-notes-for-string-concatenation.md
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Golang并发编程
+   
    golang/golang-notes-for-channel-sync.md
    golang/golang-concurrent-synchronization-for-atomic-operation.md
    golang/golang-concurrent-synchronization-for-mutex.md   

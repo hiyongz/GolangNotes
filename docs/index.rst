@@ -17,7 +17,8 @@ GolangNotes
    
    golang/golang-notes-for-channel-sync.md
    golang/golang-concurrent-synchronization-for-atomic-operation.md
-   golang/golang-concurrent-synchronization-for-mutex.md   
+   golang/golang-concurrent-synchronization-for-mutex.md
+   golang/golang-concurrent-synchronization-for-sync-once.md   
    golang/golang-concurrent-synchronization-for-waitgroup.md
    
 

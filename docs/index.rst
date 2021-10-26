@@ -19,7 +19,11 @@ GolangNotes
    golang/golang-concurrent-synchronization-for-atomic-operation.md
    golang/golang-concurrent-synchronization-for-mutex.md
    golang/golang-concurrent-synchronization-for-sync-once.md   
+<<<<<<< HEAD
    golang/golang-concurrent-synchronization-for-context.md
+=======
+   golang/golang-concurrent-synchronization-for-waitgroup.md
+>>>>>>> 1830f252b3b4395dde69ae18ed507fe685aba00e
    
 
 关注公众号【测试开发小记】及时接收最新技术文章！
